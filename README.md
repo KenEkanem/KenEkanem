@@ -8,11 +8,8 @@ eager to expand my skill and grow as a software developer. I'm actively hacking 
 I also write occasionally on [hashnode](https://fusedtechie.hashnode.dev/)
 
 
-- **💞 Collaboration:** I'm really into building communities and educating others about open source and,
-also actively seeking opportunities to collaborate on awesome Open Source projects. 
-Feel free to reach out to me if you have any exciting projects in mind!
-
-
+- **💞 Collaboration:** I am deeply committed to fostering communities and imparting knowledge about open source initiatives.
+Actively on the lookout for opportunities to contribute to remarkable open source projects
 
 - **📫 Contact:** Drop me a mail at kennedyekanem@gmail.com, and I'd be thrilled to connect and
 discuss anything related to software development, open source, or tech in general.  🚀🚀

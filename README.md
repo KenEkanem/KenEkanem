@@ -1,18 +1,13 @@
-**Hello there 👋**
+**Hey there 👋**
 
 I’m Kennedy, I am a backend software engineer with a keen interest in Linux, and everything related to the world of Open Source.
-Eager to contribute to the growth and success of organizations and communities through developer advocacy 🥑
+Eager to contribute to the growth and success of organizations and communities through Developer Advocacy 🥑
 
-- **🌱 Learning Journey:** Currently, I am enthusiastically learning Python software development, 
-Actively hacking away at [@bobbyiliev_'s](https://twitter.com/bobbyiliev_) captivating [Intro to bash scripting.](https://github.com/bobbyiliev/introduction-to-bash-scripting)
-I also write occasionally on [hashnode](https://fusedtechie.hashnode.dev/)
-
+- **🌱 Learning Journey:** Currently, I am enthusiastically learning Python software development, I also write occasionally
+on [hashnode](https://fusedtechie.hashnode.dev/)
 
 - **💞 Collaboration:** I am deeply committed to fostering communities and imparting knowledge about open source initiatives.
 Actively on the lookout for opportunities to contribute to remarkable open source projects
-
-- **📫 Contact:** Drop me a mail at kennedyekanem@gmail.com, and I'd be thrilled to connect and
-discuss anything related to software development, open source, or tech in general.  🚀🚀
 
 **My Stack**
 <div> 

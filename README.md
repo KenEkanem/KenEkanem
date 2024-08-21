@@ -1,6 +1,6 @@
 **Hey there 👋**
 
-I’m Kennedy, I am a backend software engineer with a keen interest in Linux, and everything related to the world of Open Source.
+I’m Kennedy, I am a DevOps engineer with a keen interest in Linux, and everything related to the world of Open Source.
 Eager to contribute to the growth and success of organizations and communities through Developer Advocacy 🥑
 
 - **🌱 Learning Journey:** Currently, I am enthusiastically learning Python software development, I also write occasionally

@@ -1,13 +1,6 @@
-**Hey there 👋**
+#### Paper in the wind
 
-I’m Kennedy, I am a DevOps engineer with a keen interest in Linux, and everything related to the world of Open Source.
-Eager to contribute to the growth and success of organizations and communities through Developer Advocacy 🥑
-
-- **🌱 Learning Journey:** Currently, I am enthusiastically learning Python software development, I also write occasionally
-on [hashnode](https://fusedtechie.hashnode.dev/)
-
-- **💞 Collaboration:** I am deeply committed to fostering communities and imparting knowledge about open source initiatives.
-Actively on the lookout for opportunities to contribute to remarkable open source projects
+Visit [A bit of detail](fusedtechie.me)
 
 
 
@@ -26,4 +19,3 @@ Actively on the lookout for opportunities to contribute to remarkable open sourc
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt=" " width="40" height="40"/>&nbsp;
 </div>
   
-### 🌴 [ALL MY LINKS](https://linktr.ee/kennedyekanem)

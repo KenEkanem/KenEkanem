@@ -1,6 +1,6 @@
 #### Paper in the wind
 
-Visit [A bit of detail](fusedtechie.me)
+Visit [A bit of detail](https://fusedtechie.me)
 
 
 

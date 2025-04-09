@@ -4,18 +4,37 @@ Visit [A bit of detail](https://fusedtechie.me)
 
 
 
-**My Stack**
-<div> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="" alt="Python " width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt=" " width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt=" " width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="Postgresql" alt=" " width="40" height="40"/>&nbsp;  
- <span> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg"  title="Kubernetes" alt="CSS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="CSS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastApi" alt="CSS" width="35" height="35"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg"  title="Nginx" alt="CSS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="" alt="Vim " width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt=" " width="40" height="40"/>&nbsp;
-</div>
+<p>
+    <img src ="https://img.shields.io/badge/Developer Relations-%2307405e.svg?=dev&logoColor=white"/>
+    <img src ="https://img.shields.io/badge/Cloud-%2307405e.svg?=dev&logoColor=white"/>
+    <img src ="https://img.shields.io/badge/DevOps-%2307405e.svg?=dev&logoColor=white"/>
+    <img src ="https://img.shields.io/badge/Community-%2307405e.svg?=dev&logoColor=white"/>
+
+<p>
+    <img src ="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">
+    <img src ="https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff">
+    <img src ="https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white">
+    <img src ="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white">
+    <img src ="https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white">
+
+<p>
+    <img src ="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"/>
+    <img src ="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"/>
+    <img src ="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"/>
+    <img src ="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white"/>
+    <img src ="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff">
+    <img src ="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff">
+    <img src ="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black">
+    <img src ="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff">
+    <img src ="https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff">
+    <img src ="https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white">
+
+<p>
+    <img src ="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white">
+    <img src ="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white">
+    <img src ="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?logo=digitalOcean&logoColor=white">
+    <img src ="https://img.shields.io/badge/YouTube_Music-FF0000?logo=youtube-music&logoColor=white">
+    <img src ="https://img.shields.io/badge/Hashnode-2962FF?logo=hashnode&logoColor=white">
+
+<p/>
   

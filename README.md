@@ -18,23 +18,21 @@ Visit [A bit of detail](https://fusedtechie.me)
     <img src ="https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white">
 
 <p>
-    <img src ="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"/>
     <img src ="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"/>
-    <img src ="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"/>
     <img src ="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white"/>
+    <img src ="https://img.shields.io/badge/Hashnode-2962FF?logo=hashnode&logoColor=white">
+<p>
     <img src ="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff">
     <img src ="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff">
     <img src ="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black">
     <img src ="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff">
-    <img src ="https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff">
     <img src ="https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white">
 
 <p>
     <img src ="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white">
     <img src ="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white">
     <img src ="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?logo=digitalOcean&logoColor=white">
-    <img src ="https://img.shields.io/badge/YouTube_Music-FF0000?logo=youtube-music&logoColor=white">
-    <img src ="https://img.shields.io/badge/Hashnode-2962FF?logo=hashnode&logoColor=white">
+
 
 <p/>
   
